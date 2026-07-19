@@ -36,7 +36,6 @@ discount levels, regions, and customer segments.
    (not every retail story has a dramatic holiday spike).
 
 ## Files
-- `generate_data.py` — synthetic dataset generation
 - `sql_analysis.py` — SQL analysis (JOINs, CTEs, Window Functions)
 - `eda_visualize.py` — Python EDA and chart generation
 - `data/retail_sales_synthetic.csv` — the dataset (52,000 records)
