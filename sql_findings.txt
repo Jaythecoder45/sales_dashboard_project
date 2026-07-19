@@ -1,0 +1,73 @@
+CATEGORY:
+       category  total_sales  total_profit  profit_margin_pct
+     Technology   42103339.0     6844080.0               16.3
+Office Supplies    9938987.0      997766.0               10.0
+      Furniture   20818287.0       62116.0                0.3
+
+DISCOUNT BAND:
+   discount_band  orders  profit_margin_pct
+0% (no discount)   18190               22.7
+           1-15%   18146               11.7
+          16-30%   11579                0.5
+            31%+    4085              -17.0
+
+MONTHLY TREND:
+  month  monthly_sales  running_total_sales
+2024-01      2910605.0            2910605.0
+2024-02      2935699.0            5846305.0
+2024-03      3163445.0            9009750.0
+2024-04      3043352.0           12053102.0
+2024-05      3259147.0           15312248.0
+2024-06      2939326.0           18251574.0
+2024-07      3111269.0           21362843.0
+2024-08      2994955.0           24357798.0
+2024-09      2996945.0           27354744.0
+2024-10      3217327.0           30572070.0
+2024-11      3059374.0           33631444.0
+2024-12      3072286.0           36703730.0
+2025-01      3109099.0           39812829.0
+2025-02      2736013.0           42548842.0
+2025-03      3054591.0           45603434.0
+2025-04      3031532.0           48634966.0
+2025-05      2827704.0           51462670.0
+2025-06      3003314.0           54465984.0
+2025-07      3145564.0           57611549.0
+2025-08      3236331.0           60847880.0
+2025-09      3047952.0           63895832.0
+2025-10      2997962.0           66893794.0
+2025-11      2983123.0           69876917.0
+2025-12      2983696.0           72860613.0
+
+REGION x SEGMENT RANKING:
+ region     segment  total_profit  profit_rank
+   West    Consumer     960082.24            1
+  North    Consumer     852090.96            2
+  South    Consumer     826377.96            3
+   East    Consumer     819910.22            4
+Central    Consumer     611817.63            5
+   West   Corporate     556825.14            6
+  North   Corporate     522909.85            7
+  South   Corporate     462857.44            8
+   East   Corporate     431868.67            9
+   West Home Office     402926.83           10
+Central   Corporate     343531.03           11
+  North Home Office     313369.39           12
+  South Home Office     300057.42           13
+   East Home Office     280421.48           14
+Central Home Office     218915.63           15
+
+SUB-CATEGORY:
+sub_category  total_sales  total_profit
+     Copiers   10653072.0     1731827.0
+    Machines   10702874.0     1722172.0
+ Accessories   10446697.0     1703025.0
+      Phones   10300696.0     1687056.0
+     Storage    2013461.0      207211.0
+         Art    2030641.0      207181.0
+      Labels    1997296.0      197471.0
+     Binders    1971018.0      197008.0
+       Paper    1926571.0      188894.0
+ Furnishings    5257849.0       33052.0
+      Chairs    5307951.0       21082.0
+   Bookcases    5120997.0        8414.0
+      Tables    5131490.0        -432.0
