@@ -40,8 +40,4 @@ discount levels, regions, and customer segments.
 - `eda_visualize.py` — Python EDA and chart generation
 - `data/retail_sales_synthetic.csv` — the dataset (52,000 records)
 - `charts/` — visualizations
-- `sql_findings.txt` — raw SQL query outputs
-
-## Note on data
-This project uses a synthetic dataset built to reflect realistic retail sales
-dynamics. All analysis, code, and findings are the author's own work.
+- `sql_findings.txt` — raw SQL query outputs.
